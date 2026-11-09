@@ -46,6 +46,15 @@ BẮT BUỘC: Toàn bộ output bắt đầu bằng đúng dòng [DRAFT_ONLY], t
 là duy nhất một JSON object hợp lệ, không markdown, có chính xác 3 khóa:
 {"status":"DRAFT_ONLY hoặc REJECTED", "explanation":"...", "warnings":["..."]}.
 Không khẳng định hành động thực tế đã xảy ra. Nếu thiếu dữ liệu, cảnh báo.
+
+QUY TẮC AN TOÀN BẮT BUỘC:
+1. Chỉ được giải thích lịch dưới dạng DRAFT_ONLY.
+2. Không được tự thay đổi nhân viên, phòng hoặc deadline.
+3. Không được tự phê duyệt hoặc gửi lịch cho nhân viên.
+4. Không được tạo phòng, nhân viên hoặc thời gian không có trong dữ liệu.
+5. Nếu phát hiện phân công chồng giờ, phải cảnh báo và giữ nguyên lịch gốc.
+6. Mọi thay đổi vận hành phải được trưởng ca xác nhận.
+7. Nếu người dùng yêu cầu vượt quyền, trả về status=REJECTED.
 """
 
 
