@@ -210,7 +210,7 @@ Sơ đồ trực quan hóa quy trình vận hành hiện tại.
 Cả nhóm sử dụng Google Docs để thảo luận,
 viết nội dung và tổng hợp kết quả Lab Day 02.
 
-👉 [MỞ GOOGLE DOCS NHÓM]([DAN_LINK_GOOGLE_DOCS_VAO_DAY](https://docs.google.com/document/d/15yTEk_mgVTdc9Qv7XUsHxYmeM7aoGDdtWagukPBJXno/edit?usp=sharing))
+👉 [MỞ GOOGLE DOCS NHÓM](https://docs.google.com/document/d/15yTEk_mgVTdc9Qv7XUsHxYmeM7aoGDdtWagukPBJXno/edit?usp=sharing))
 
 ### Quy trình làm việc
 1. Mỗi thành viên làm bài trên branch cá nhân.
