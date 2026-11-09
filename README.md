@@ -205,3 +205,15 @@ Sơ đồ trực quan hóa quy trình vận hành hiện tại.
 | **Code Python** | `.py` | Branch Cá nhân (`<ten>`) | Từng thành viên | **Điểm CÁ NHÂN** (chấm trên branch riêng) |
 | **Báo cáo / Document** | `.md`, `.png` | Branch `main` (Sau khi chọn lọc & merge) | Cả nhóm / Trưởng nhóm đại diện merge | **Điểm NHÓM** (chấm trên branch `main`) |
 | **Form Nộp Bài** | Form trực tuyến | Link Google Form / LMS | **Chỉ DUY NHẤT Trưởng nhóm điền** | Ghi nhận/tổng hợp bài nộp của nhóm |
+## 📄 Google Docs - Tài liệu làm việc nhóm
+
+Cả nhóm sử dụng Google Docs để thảo luận,
+viết nội dung và tổng hợp kết quả Lab Day 02.
+
+👉 [MỞ GOOGLE DOCS NHÓM](DAN_LINK_GOOGLE_DOCS_VAO_DAY)
+
+### Quy trình làm việc
+1. Mỗi thành viên làm bài trên branch cá nhân.
+2. Cùng thảo luận và góp ý trong Google Docs.
+3. Hoàn thành bài thì push lên GitHub.
+4. Nhóm trưởng tổng hợp kết quả lên main.
