@@ -3,3 +3,4 @@
 google-genai
 google-generativeai
 pytest
+google-genai>=1.0.0
